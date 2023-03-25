@@ -10,8 +10,12 @@ le.
 You can click the Preview link to take a look at your changes.
 --->
 🛠 Tech Stack
-    💻   Python | Java | Kotlin  
+    💻   Python | Java | Kotlin 
+    
     🌐   Full-Stack | React | HTML | CSS | JavaScript 
+    
     🛢   MySQL | Firebase | Postman
+    
     🔧   Android Studio | IntelliJ | Visual Studio code | Git
+    
     🖥   Adobe Xd | Illustrator | Photoshop | Figma
