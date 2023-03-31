@@ -4,7 +4,7 @@
 - 💞️ See me :  https://lekamge.netlify.app/ 
 - 📫 How to reach me @malith.20200144@iit.ac.lk
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]([https://lekamge.netlify.app/](https://lekamge.netlify.app/))
+[![Website](https://lekamge.netlify.app/)]([https://lekamge.netlify.app/](https://lekamge.netlify.app/))
 <!---
 itzmalith/itzmalith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profi
 le.
