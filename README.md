@@ -13,10 +13,13 @@ You can click the Preview link to take a look at your changes.
 
     💻   Python | Java | Kotlin 
     
-    🌐   Full-Stack | React | HTML | CSS | JavaScript 
+    🌐   Full-Stack | React | HTML | CSS | JavaScript | Flutter
     
     🛢   MySQL | Firebase | Postman
     
     🔧   Android Studio | IntelliJ | Visual Studio code | Git
     
     🖥   Adobe Xd | Illustrator | Photoshop | Figma
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itzmalith)](https://git.io/streak-stats)
