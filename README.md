@@ -12,15 +12,15 @@ You can click the Preview link to take a look at your changes.
 --->
 🛠 Tech Stack
 
-    💻   Python | Java | Kotlin 
+    💻   Python | Java | Kotlin | Swift
     
     🌐   Full-Stack | React | HTML | CSS | JavaScript | Flutter
     
-    🛢   MySQL | Firebase | Postman
+    🛢   MySQL | Firebase | Postman 
     
-    🔧   Android Studio | IntelliJ | Visual Studio code | Git
+    🔧   Android Studio | IntelliJ | Visual Studio code | Git | Xcode
     
-    🖥   Adobe Xd | Illustrator | Photoshop | Figma
+    🖥   Adobe Xd | Illustrator | Photoshop | Figma | Sketch | Affinity 
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=itzmalith)](https://git.io/streak-stats)
