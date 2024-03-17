@@ -12,13 +12,13 @@ You can click the Preview link to take a look at your changes.
 --->
 🛠 Tech Stack
 
-    💻   Python | Java | Kotlin | Swift
+    💻   Python | Java | Kotlin | Swift | javascript | typescript 
     
-    🌐   Full-Stack | React | HTML | CSS | JavaScript | Flutter
+    🌐   Full-Stack | angular | nodeJs | HTML | CSS | JavaScript | Flutter
     
-    🛢   MySQL | Firebase | Postman 
+    🛢   MySQL | mongoDb | Firebase
     
-    🔧   Android Studio | IntelliJ | Visual Studio code | Git | Xcode
+    🔧   Android Studio | IntelliJ | Visual Studio code | Git | Xcode | postmon 
     
     🖥   Adobe Xd | Illustrator | Photoshop | Figma | Sketch | Affinity 
 
