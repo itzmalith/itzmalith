@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itzmalith
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning software development
+- 🌱 Works as a SE intern at @atLink Srilanka
 - 💞️ See me :  https://lekamge.netlify.app/ 
 - 📫 How to reach me @malith.20200144@iit.ac.lk
 
