@@ -6,13 +6,10 @@
     <p><a href="https://www.buymeacoffee.com/itzmalith"> 
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="170" alt="Buy Me a Coffee">
     </a></p>
-
-    <br>
-    <br>
-
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 itzmalith/itzmalith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profi
 le.
