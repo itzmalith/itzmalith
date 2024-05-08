@@ -15,17 +15,12 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!---
-itzmalith/itzmalith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profi
-le.
-You can click the Preview link to take a look at your changes.
---->
+
 🛠 Tech Stack
 
     💻   Python | Java | Kotlin | Swift | javascript | typescript 
     
-    🌐   Full-Stack | angular | nodeJs | HTML | CSS | JavaScript | Flutter
+    🌐   React | angular | nodeJs | nextjs | Flutter
     
     🛢   MySQL | mongoDb | Firebase
     
