@@ -1,6 +1,13 @@
 - 👋 Hi, I’m @itzmalith
+<div style="text-align: center;">
+    <p><a href="https://malithlk.netlify.app/" target="_blank"> 
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="170" alt="Portfolio">
+    </a></p>
+</div>
 - 🌱 Works as a SE intern at @atLink Srilanka
 - 📫 How to reach me @lekamge.malith@gmail.com
+
+
 
 <div style="text-align: center;">
     <p><a href="https://www.buymeacoffee.com/itzmalith"> 
