@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @itzmalith
-- 🌱 Works as a SE intern at @atLink Srilanka
-- 📫 How to reach me @lekamge.malith@gmail.com
+<div  align="center" >
+
+<p> 👋 Hi, I’m @itzmalith</p>
+<p>🌱 former SE intern at @atLinkComunications Srilanka </p>
+<p>📫 How to reach me @lekamge.malith@gmail.com</p>
+    
+</div>
+
 
 <div  align="center" style="text-align: center;">
     <p><a href="https://malithlk.netlify.app/" target="_blank" style="background-color: #FFD700; color: #000; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">Visit Portfolio</a></p>
 </div>
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1t-hTIqlcLC7jGhKsKFbGvTyex68KZg_F/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20CV-%23007ACC?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+</p>
 
 <div align="center" style="text-align: center;">
     <p><a href="https://www.buymeacoffee.com/itzmalith"> 
@@ -14,6 +24,8 @@
 </div>
 
 <br>
+
+
 
 
 🛠 Tech Stack
@@ -45,14 +57,10 @@
 
 
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1t-hTIqlcLC7jGhKsKFbGvTyex68KZg_F/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20CV-%23007ACC?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  </a>
-</p>
+
 
 ---
 
 <div align="center">
-💡 Always curious. Always building.
+    "Building the future, one commit at a time. 🚀💡"
 </div>
