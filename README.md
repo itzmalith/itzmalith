@@ -30,13 +30,6 @@
 
 
 ## <div align="center">📊 GitHub Stats</div>
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzmalith&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzmalith&layout=compact&theme=tokyonight&hide_border=true)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzmalith&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
@@ -55,7 +48,7 @@
 
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1h36CdPAIX1bBgfBClw0cNqvgJgIKNj44/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1t-hTIqlcLC7jGhKsKFbGvTyex68KZg_F/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20CV-%23007ACC?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
