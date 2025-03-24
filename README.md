@@ -29,8 +29,6 @@
     🖥   Adobe Xd | Illustrator | Photoshop | Figma | Sketch | Affinity 
 
 
-## <div align="center">📊 GitHub Stats</div>
-
 ---
 
 ## <div align="center">🏆 GitHub Achievements</div>
