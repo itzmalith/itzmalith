@@ -18,23 +18,14 @@
 
 🛠 Tech Stack
 
-    💻   Python | Java | Kotlin | Swift | javascript | typescript 
+    💻   Python | Java | Kotlin  | javascript | typescript 
     
-    🌐   React | angular | nodeJs | nextjs | Flutter
+    🌐   React | angular | nodeJs | nextjs 
     
-    🛢   MySQL | mongoDb | Firebase
+    🛢   mongoDb | mysql | Firebase
     
-    🔧   Android Studio | IntelliJ | Visual Studio code | Git | Xcode | postmon 
+    🔧   Git | swagger | postmon 
     
     🖥   Adobe Xd | Illustrator | Photoshop | Figma | Sketch | Affinity 
 
 
-
-
-
-
-
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itzmalith)](https://git.io/streak-stats)
