@@ -8,7 +8,7 @@
 
 
 <div  align="center" style="text-align: center;">
-    <p><a href="https://malithlk.netlify.app/" target="_blank" style="background-color: #FFD700; color: #000; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">Visit Portfolio</a></p>
+    <p><a href="https://malith-lekamge.vercel.app/" target="_blank" style="background-color: #FFD700; color: #000; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">Visit Portfolio</a></p>
 </div>
 
 <p align="center">
