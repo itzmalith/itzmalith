@@ -2,6 +2,7 @@
 
 <p> 👋 Hi, I’m @itzmalith</p>
 <p>🌱 former SE intern at @atLinkComunications Srilanka </p>
+<p>🌱 Back-End Engineer at @NovaCodex
 <p>📫 How to reach me @lekamge.malith@gmail.com</p>
     
 </div>
@@ -12,7 +13,7 @@
 </div>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1t-hTIqlcLC7jGhKsKFbGvTyex68KZg_F/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1nNQ-nWnqDRzvVBAasZ-RN8IK7lzvp4ju/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20CV-%23007ACC?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
